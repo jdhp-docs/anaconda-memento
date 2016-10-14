@@ -1,17 +1,17 @@
-FILE_BASE_NAME=anaconda_memento
+FILE_BASE_NAME=conda_memento
 
 # rst2html options ############################################################
 
 # See man rst2html for more information
 
-TITLE="Anaconda Memento"
+TITLE="Conda Memento"
 
 LANGUAGE=en
 #LANGUAGE=fr
 
 MATH_OUTPUT="MathJax"
 
-SOURCE_URL="https://github.com/jdhp-docs/anaconda-memento"
+SOURCE_URL="https://github.com/jdhp-docs/conda-memento"
 
 HTML_STYLESHEET="style/html/rst2html.css"
 

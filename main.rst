@@ -5,9 +5,9 @@
 
 .. include:: meta.rst
 
-================
-Anaconda Memento
-================
+=============
+Conda Memento
+=============
 
 :Author: |AUTHORS|
 :Contact: |CONTACT|
