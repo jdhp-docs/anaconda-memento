@@ -63,8 +63,13 @@ Update all installed packages
 
 ::
 
+    conda update anaconda
+
+or::
+
     conda update --all
 
+See http://www.jdhp.org/docs/anaconda_memento/anaconda_memento.html
 
 Make virtual environments
 =========================
