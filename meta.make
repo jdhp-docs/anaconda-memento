@@ -4,15 +4,9 @@ FILE_BASE_NAME=conda_memento
 
 # See man rst2html for more information
 
-TITLE="Conda Memento"
-
+TITLE=Conda Memento
 LANGUAGE=en
-#LANGUAGE=fr
-
-MATH_OUTPUT="MathJax"
-
-SOURCE_URL="https://github.com/jdhp-docs/conda-memento"
-
-HTML_STYLESHEET="style/html/rst2html.css"
-
-HTML_TMP_DIR="html_tmp"
+MATH_OUTPUT=MathJax
+SOURCE_URL=https://github.com/jdhp-docs/conda-memento
+HTML_STYLESHEET=style/html/rst2html.css
+HTML_TMP_DIR=html_tmp
